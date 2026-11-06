@@ -1,0 +1,12 @@
+{
+  "slug": "plaintext",
+  "brand": "Plaintext",
+  "kicker": "A quieter home for your words.",
+  "title": "Good words.<br><em>Less baggage.</em><span class=\"editorial-star\">✳</span>",
+  "desc": "Clean up Markdown, rescue a table, or turn your draft into something ready to share. All in your browser.",
+  "accent": "#b03b28",
+  "dark": "#27251f",
+  "kind": "text",
+  "port": "4176",
+  "design": "editorial writing desk / paper / ink"
+}
